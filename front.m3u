@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-id="ext" group-title="Sec",FrontLiner
+rtsp://admin:admin@192.168.1.6:554/mode=real&idc=1&ids=1
+#EXTINF:-1 tvg-id="ext" group-title="Sec",BackLiner
+rtsp://admin:admin@192.168.1.7:554/mode=real&idc=1&ids=1
