@@ -1,30 +1,9 @@
 INDONESIA
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XCFPd14/hbogo.png" group-title="HBOGoAsia",HBO Go Intro
-https://github.com/HybridBroadcastBroadbandTV/Intro/raw/main/Bogoo.mp4
 
+#EXTINF:-1 tvg-chno="83" tvg-id="astroceria" group-title="Test" tvg-logo="https://iptvthai.my.to/logo/Astro_Ceria_HD.png?rev=8",Astro Ceria Backup 
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-logo="https://i.ibb.co/5hZNVQ3/hbo.png" group-title="HBOGoAsia",HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8
-
-
-#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-logo="https://i.ibb.co/d4FdphF/hbo-hits.png" group-title="HBOGoAsia",HBO HITS
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-
-
-#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-logo="https://i.ibb.co/JRJxGb8/hbo-fam.png" group-title="HBOGoAsia",HBO FAMILY
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-
-
-#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-logo="https://i.ibb.co/1zxkQKw/hbo-sig.png" group-title="HBOGoAsia",HBO SIGNATURE
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-
-
-#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-logo="https://i.ibb.co/h28YpXX/cinemax.png" group-title="HBOGoAsia",CINEMAX
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-
-
-#EXTINF:-1 tvg-id="RED.MACAN" tvg-logo="https://i.ibb.co/61MDXtc/hbo-red.png" group-title="HBOGoAsia",Red By HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQHQ303-nahsMQ/company-logo_200_200/0/1593608716508?e=2159024400&v=beta&t=0iTAFWeb7Ny5RJFedyiIpycLHlMqrdWzckyz76rv1cs" group-title="Test",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
