@@ -8,3 +8,226 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/IP2txNP.png" group-title="",Nick Jr.
 https://indotv.tech/m3u8sd/usee-nickjr-indonesia.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",THRILL 
+https://indotv.tech:443/m3u8sd/usee-thrill-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",FLIK
+https://indotv.tech:443/m3u8sd/usee-flik-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",AXN
+https://indotv.tech:443/m3u8sd/usee-axn-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",ZEE BIOSKOP 
+https://indotv.tech:443/m3u8sd/usee-zbioskop-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",CELESTIAL MOVIES 
+https://tvonlineindonesia.xyz:443/m3u8/usee-celestialmovie-People+62.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",DAAITV 
+https://indotv.tech:443/m3u8sd/usee-daaitv-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",GALAXY 
+https://indotv.tech:443/m3u8sd/usee-galaxy-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",WARNERTV
+https://indotv.tech:443/m3u8sd/usee-warner-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",CINEMA WORLD 
+https://indotv.tech:443/m3u8sd/usee-cinemaworld-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",SONY ONE
+https://indotv.tech:443/m3u8sd/usee-sone-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",SONY GEM
+https://indotv.tech:443/m3u8sd/usee-sgem-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",BIOSKOP INDONESIA 
+https://indotv.tech:443/m3u8sd/usee-bioskopindonesia-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",IMC
+https://indotv.tech:443/m3u8sd/usee-imc-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",CITRA DRAMA 
+https://indotv.tech:443/m3u8sd/usee-cdrama-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",NET
+https://indotv.tech:443/m3u8sd/usee-net-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",TRANSTV 
+https://indotv.tech:443/m3u8sd/usee-transtv-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",NET
+https://indotv.tech:443/m3u8sd/usee-trans7-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",TVONE
+https://indotv.tech:443/oxygen/tvone.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",METRO
+https://edge.medcom.id:443/live-edge/smil:metro.smil/chunklist_w1883927270_b628000_sleng.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",RTV
+https://indotv.tech:443/m3u8sd/usee-rtv-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",KOMPASTV
+https://indotv.tech:443/m3u8sd/usee-kompastv-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Rcti
+https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Sctv
+https://indotv.tech:443/m3u8sd/usee-sctv-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",INDOSIAR 
+https://indotv.tech:443/m3u8sd/usee-indosiar-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Sctv
+https://indotv.tech:443/m3u8sd/usee-sctv-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",ANTV
+https://indotv.tech:443/oxygen/antv.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",BERITA SATU
+https://indotv.tech:443/m3u8sd/usee-beritasatu-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",USEEPHOTO 
+https://indotv.tech:443/m3u8sd/usee-useephoto-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",USEEPRIME 
+https://indotv.tech:443/m3u8sd/usee-useeprime-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",NUSANTARATV
+https://indotv.tech:443/m3u8sd/usee-nusantaratv-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Foxsport1 
+https://indotv.tech:443/m3u8sd/usee-foxsport1-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",foxsport2 
+https://indotv.tech:443/m3u8sd/usee-foxsport2-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",foxsport3
+https://indotv.tech:443/m3u8sd/usee-foxsport3-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Champion1 
+https://tvonlineindonesia.xyz:443/m3u8/usee-champion1-People+62.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Champion2 
+https://indotv.tech:443/m3u8sd/usee-champion2-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Bein 1
+https://indotv.tech:443/m3u8sd/usee-bein1-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Bein 2
+https://indotv.tech:443/m3u8sd/usee-bein2-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Useesports1
+https://indotv.tech:443/m3u8sd/usee-useesport-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Useesports2 
+https://indotv.tech:443/m3u8sd/usee-useesports2-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Hunt channel 
+https://1111296894.rsc.cdn77.org:443/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Unisport
+http://unisportslive1-lh.akamaihd.net:80/i/boston_042114_1@39543/index_2000_av-b.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Tennis plus
+https://playoutengine.sinclairstoryline.com:443/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Tmz sport 
+https://dai2.xumo.com:443/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/640x360_700000/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Chinesedrama 
+https://indotv.tech:443/m3u8sd/usee-chinesedrama-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Hbo
+https://indotv.tech:443/m3u8sd/Go-hbo-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Fox family mov 
+http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Natgeopeople 
+https://indotv.tech:443/m3u8sd/usee-natgeopeople-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Natgeowild 
+https://indotv.tech:443/m3u8sd/usee-natgeowild-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Natgeo 
+https://indotv.tech:443/m3u8sd/usee-natgeo-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Discovery 
+https://indotv.tech:443/m3u8sd/usee-disco-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Discovery Hd
+https://www.livedoomovie.com:443/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Discovery SCIENCE 
+https://www.livedoomovie.com:443/02_DiscoveryScience/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",History 
+https://indotv.tech:443/m3u8sd/usee-history-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",History 2
+https://www.livedoomovie.com:443/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Cgtndocumentary 
+https://indotv.tech:443/m3u8sd/usee-cgtndocumentary-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Animal Planet 
+https://www.livedoomovie.com:443/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",History Lab
+http://wma10.fluidstream.net:80/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Tvn
+https://indotv.tech:443/m3u8sd/usee-tvn-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Kix
+https://indotv.tech:443/m3u8sd/usee-kix-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",AXN
+https://indotv.tech:443/m3u8sd/usee-axn-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Lifetime
+https://indotv.tech:443/m3u8sd/usee-lifetime-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Waku waku japan
+https://indotv.tech:443/m3u8sd/usee-wakuwaku-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net:443/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Blue Entertainment 
+https://indotv.tech:443/m3u8sd/usee-blueant-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Blue Entertainment extreme
+https://indotv.tech:443/m3u8sd/usee-blueantextreme-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",K plus
+https://indotv.tech:443/m3u8sd/usee-kplus-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Kbs world
+https://indotv.tech:443/m3u8sd/usee-kbsworld-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Tvn Movies 
+https://indotv.tech:443/m3u8sd/usee-tvnmovies-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Sbs plus
+https://streaming-a-802.cdn.nextologies.com:443/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Sbs star
+https://streaming-a-802.cdn.nextologies.com:443/SBS_18/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Japanet channel
+https://bcsecurelivehls-i.akamaihd.net:443/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Aniplus
+https://indotv.tech:443/m3u8sd/usee-aniplus-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Animax 
+https://indotv.tech:443/m3u8sd/usee-animax-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Cartoon Network 
+https://indotv.tech:443/m3u8sd/usee-cartoonnetwork-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Dreamworks 
+https://indotv.tech:443/m3u8sd/usee-dreamworks-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Nickelodeon 
+https://indotv.tech:443/m3u8sd/usee-nickelodeon-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",NickJr
+https://indotv.tech:443/m3u8sd/usee-nickjr-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Boomerang 
+https://indotv.tech:443/m3u8sd/usee-boomerang-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Disney channel 
+https://www.livedoomovie.com:443/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",MyKids
+https://indotv.tech:443/m3u8sd/usee-mykids-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Davinci 
+https://indotv.tech:443/m3u8sd/usee-davinci-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Horee 
+https://indotv.tech:443/m3u8sd/usee-horee-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Tv edukasi 
+https://indotv.tech:443/m3u8sd/usee-tvedukasi-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Dunia Anak
+https://tvonlineindonesia.xyz:443/m3u8/usee-duniaanak-People+62.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",DuckTv
+https://tvonlineindonesia.xyz:443/m3u8/usee-ducktv-People+62.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Baby first 
+https://indotv.tech:443/m3u8sd/usee-babyfirst-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Gem Junior 
+http://d2e40kvaojifd6.cloudfront.net:80/stream/gem_junior/playlist_640x360_800k.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",3abn kids
+https://moiptvhls-i.akamaihd.net:443/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Ebs kids
+http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Disney Junior 
+http://qqtv.nl:8080/live/cast/cast/15525.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Trt cocuk
+https://tv-trtcocuk.live.trt.com.tr:443/master_360.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Space toon
+https://streams.spacetoon.com:443/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Locomotion
+http://locomotiontv.com:80/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Tvo kids
+https://bcsecurelivehls-i.akamaihd.net:443/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Mtv Live
+https://indotv.tech:443/m3u8sd/usee-mtvlive-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",PramborsTv
+https://indotv.tech:443/m3u8sd/usee-pramborstv-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Alquran 
+https://indotv.tech:443/m3u8sd/usee-alquran-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Eman channel 
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Islam channel 
+https://5ea835027d05e.streamlock.net:443/islam/islamtv/chunklist_w519609217.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Mqtv
+https://indotv.tech:443/m3u8sd/usee-mqtv-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Asian Food network 
+https://indotv.tech:443/m3u8sd/usee-afc-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Eat&Go
+https://indotv.tech:443/m3u8sd/usee-eatgo-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Ruang terampil 
+https://indotv.tech:443/m3u8sd/usee-useeinfo-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Outdoor
+https://indotv.tech:443/m3u8sd/usee-outdoor-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Outdor cooking
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Hgtv 
+https://indotv.tech:443/m3u8sd/usee-hgtv-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Cnbc indo
+https://tvonlineindonesia.xyz:443/m3u8/usee-cnbcindonesia-People+62.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Idx channel 
+https://liveanevia.mncnow.id:443/live/eds/IDX/sa_hls/IDX.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Abc Australia 
+https://indotv.tech:443/m3u8sd/usee-abcaustralia-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Aljazeera
+https://indotv.tech:443/m3u8sd/usee-aljazeera-indonesia.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Antara
+https://indotv.tech:443/m3u8sd/usee-antara-indonesia.m3u8
