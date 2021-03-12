@@ -200,9 +200,9 @@ https://bcsecurelivehls-i.akamaihd.net:443/hls/live/623607/15364602001/tvokids/m
 #EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Mtv Live
 https://indotv.tech:443/m3u8sd/usee-mtvlive-indonesia.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Sec",FrontLiner
-http://admin:admin@192.168.1.6:554/mode=real&idc=1&ids=1
+rtsp://admin:admin@192.168.1.6:554/mode=real&idc=1&ids=1
 #EXTINF:-1 tvg-id="ext" group-title="Sec",BackLiner
-http://admin:admin@192.168.1.7:554/mode=real&idc=1&ids=1
+rtsp://admin:admin@192.168.1.7:554/mode=real&idc=1&ids=1
 #EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",PramborsTv
 https://indotv.tech:443/m3u8sd/usee-pramborstv-indonesia.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="IndoTVTech",Alquran 
