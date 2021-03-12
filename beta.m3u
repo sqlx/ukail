@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="83" tvg-id="astroceria" group-title="Test" tvg-logo="https://iptvthai.my.to/logo/Astro_Ceria_HD.png?rev=8",Astro Ceria Backup 
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQHQ303-nahsMQ/company-logo_200_200/0/1593608716508?e=2159024400&v=beta&t=0iTAFWeb7Ny5RJFedyiIpycLHlMqrdWzckyz76rv1cs" group-title="Test",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/IP2txNP.png" group-title="",Nick Jr.
+https://indotv.tech/m3u8sd/usee-nickjr-indonesia.m3u8
